@@ -6,11 +6,13 @@ Code for our paper:
 
 **"Online Learning in Iterated Prisoner's Dilemma to Mimic Human Behavior"** 
 
-by [Baihan Lin](http://www.columbia.edu/~bl2681/) (Columbia), [Djallel Bouneffouf](https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en) (IBM Research), [Guillermo Cecchi](https://researcher.watson.ibm.com/researcher/view.php?person=us-gcecchi) (IBM Research).
+by [Baihan Lin](http://www.columbia.edu/~bl2681/) (Columbia)*, [Djallel Bouneffouf](https://scholar.google.com/citations?user=i2a1LUMAAAAJ&hl=en) (IBM Research), [Guillermo Cecchi](https://researcher.watson.ibm.com/researcher/view.php?person=us-gcecchi) (IBM Research).
+
+*Corresponding
 
 
 
-For the latest full paper: https://arxiv.org/abs/
+For the latest full paper: https://arxiv.org/abs/2006.06580
 
 
 
@@ -40,7 +42,7 @@ If you find this work helpful, please try the models out and cite our works. Tha
     @article{lin2020online,
       title={Online Learning in Iterated Prisoner's Dilemma to Mimic Human Behavior},
       author={Lin, Baihan and Bouneffouf, Djallel and Cecchi, Guillermo},
-      journal={arXiv preprint arXiv:},
+      journal={arXiv preprint arXiv:2006.06580},
       year={2020}
     }
 
