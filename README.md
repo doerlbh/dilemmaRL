@@ -1,6 +1,6 @@
 # dilemmaRL
 
-Code for our PRICAI 2022 paper:
+Code for our *PRICAI 2022* paper:
 
 **"Online Learning in Iterated Prisoner's Dilemma to Mimic Human Behavior"**
 
@@ -33,7 +33,9 @@ If you find this work helpful, please try the models out and cite our works. Tha
       author={Lin, Baihan and Bouneffouf, Djallel and Cecchi, Guillermo},
       booktitle={Pacific Rim International Conference on Artificial Intelligence},
       year={2022},
-      organization={Springer}}
+      organization={Springer}
+
+    }
 
 ## Tasks
 
